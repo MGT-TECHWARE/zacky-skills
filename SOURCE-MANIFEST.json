@@ -1,0 +1,335 @@
+[
+  {
+    "upstreamSkill": "grill-me",
+    "packSkill": "grill-me",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
+    "installedSourceHash": "9cdbb4b8f7a3aeaef82e6230c9e823500d4a8a1214c726cf342cf9829d34fc7d",
+    "originalFileSha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+    "packFileSha256": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637"
+  },
+  {
+    "upstreamSkill": "grill-me",
+    "packSkill": "grill-me",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/agents/openai.yaml",
+    "installedSourceHash": "9cdbb4b8f7a3aeaef82e6230c9e823500d4a8a1214c726cf342cf9829d34fc7d",
+    "originalFileSha256": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
+    "packFileSha256": "08fc738fcee2a1fea6b07c22e94cf9ec94fe1e765e45bbb84421eb74f5cf49ec"
+  },
+  {
+    "upstreamSkill": "grill-with-docs",
+    "packSkill": "grill-with-docs",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md",
+    "installedSourceHash": "35e62aa423aaeab6a414bcac273f56dfb17802ef2334b41b6a3b00f28196c8cf",
+    "originalFileSha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe",
+    "packFileSha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe"
+  },
+  {
+    "upstreamSkill": "grill-with-docs",
+    "packSkill": "grill-with-docs",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/agents/openai.yaml",
+    "installedSourceHash": "35e62aa423aaeab6a414bcac273f56dfb17802ef2334b41b6a3b00f28196c8cf",
+    "originalFileSha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9",
+    "packFileSha256": "fe397c25d6cea1a298f5868e064d68bf6b760b038bc7a8335755597f2a7973df"
+  },
+  {
+    "upstreamSkill": "grilling",
+    "packSkill": "grilling",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md",
+    "installedSourceHash": "e40cc1d348f6d935e28f1e24474302d7368f0a400429271a43b35fe154891dc5",
+    "originalFileSha256": "a146842ed93ca43d833550fa9adf02e58cb63c83fea9d4b4522995b82242d4e2",
+    "packFileSha256": "a146842ed93ca43d833550fa9adf02e58cb63c83fea9d4b4522995b82242d4e2"
+  },
+  {
+    "upstreamSkill": "grilling",
+    "packSkill": "grilling",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/agents/openai.yaml",
+    "installedSourceHash": "e40cc1d348f6d935e28f1e24474302d7368f0a400429271a43b35fe154891dc5",
+    "originalFileSha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b",
+    "packFileSha256": "3dcebc4baff94f29694f52a3da19cab551b99dd68db977dfb1d97b010e960f13"
+  },
+  {
+    "upstreamSkill": "domain-modeling",
+    "packSkill": "domain-modeling",
+    "file": "ADR-FORMAT.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/ADR-FORMAT.md",
+    "installedSourceHash": "b3eb40152b81f0c98fd2095a023c019452dbdce56f7540cc67fece2972db8369",
+    "originalFileSha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0",
+    "packFileSha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+  },
+  {
+    "upstreamSkill": "domain-modeling",
+    "packSkill": "domain-modeling",
+    "file": "GLOSSARY-FORMAT.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/GLOSSARY-FORMAT.md",
+    "installedSourceHash": "b3eb40152b81f0c98fd2095a023c019452dbdce56f7540cc67fece2972db8369",
+    "originalFileSha256": "21dcc40cdec8e151a829b98ab1517c1867bc444e3665134a98c6983411996801",
+    "packFileSha256": "21dcc40cdec8e151a829b98ab1517c1867bc444e3665134a98c6983411996801"
+  },
+  {
+    "upstreamSkill": "domain-modeling",
+    "packSkill": "domain-modeling",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/SKILL.md",
+    "installedSourceHash": "b3eb40152b81f0c98fd2095a023c019452dbdce56f7540cc67fece2972db8369",
+    "originalFileSha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3",
+    "packFileSha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3"
+  },
+  {
+    "upstreamSkill": "domain-modeling",
+    "packSkill": "domain-modeling",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/domain-modeling/agents/openai.yaml",
+    "installedSourceHash": "b3eb40152b81f0c98fd2095a023c019452dbdce56f7540cc67fece2972db8369",
+    "originalFileSha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b",
+    "packFileSha256": "3e14204645c8b30c35604d566f678eefa00da1d96b1f477a6da482db80e5d309"
+  },
+  {
+    "upstreamSkill": "to-spec",
+    "packSkill": "to-spec",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/SKILL.md",
+    "installedSourceHash": "3fa1a0695d4ea242fae9e569e4d22aa1788623197abb33bfadafae7315789bbf",
+    "originalFileSha256": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
+    "packFileSha256": "73b4ac0522b94f681588014e8b201d5ffc1b40fee0fbc2aec4843cc3b66db705"
+  },
+  {
+    "upstreamSkill": "to-spec",
+    "packSkill": "to-spec",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-spec/agents/openai.yaml",
+    "installedSourceHash": "3fa1a0695d4ea242fae9e569e4d22aa1788623197abb33bfadafae7315789bbf",
+    "originalFileSha256": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb",
+    "packFileSha256": "839933ef5140a8f6a593761167ab9f5b661e3e0aaf5b84935e5c38c74eea734e"
+  },
+  {
+    "upstreamSkill": "to-tickets",
+    "packSkill": "to-tickets",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/SKILL.md",
+    "installedSourceHash": "5f871bdc46a9212222214ba399be4965374208af1bd7f48f1271bef72841dd31",
+    "originalFileSha256": "56ec23c5b2782785d4e65bff9e315b6d3aeb4ef977c174a219e99489fada1995",
+    "packFileSha256": "ea62ec349086a64c49400a9f4ad68bfb7bb7455c23ca6d10432883e51d618805"
+  },
+  {
+    "upstreamSkill": "to-tickets",
+    "packSkill": "to-tickets",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/to-tickets/agents/openai.yaml",
+    "installedSourceHash": "5f871bdc46a9212222214ba399be4965374208af1bd7f48f1271bef72841dd31",
+    "originalFileSha256": "21bc6215fffcd7614e9f772bb1760e87cc5fc7dcc707e7d282bc9414267a6090",
+    "packFileSha256": "33de3e4704e8832b933adbb44f93bab136529e2c69f7e5b2477a70e54fc93b04"
+  },
+  {
+    "upstreamSkill": "implement",
+    "packSkill": "implement",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/implement/SKILL.md",
+    "installedSourceHash": "b6371a0a6723bad551f3adc721e3729a6a97acfc3670dc2bdea198bbe78408c0",
+    "originalFileSha256": "483bdc4ccf4ac31d86ac7beeaa0d0db80313e71e120bb8c59b3196ae5decd53d",
+    "packFileSha256": "483bdc4ccf4ac31d86ac7beeaa0d0db80313e71e120bb8c59b3196ae5decd53d"
+  },
+  {
+    "upstreamSkill": "implement",
+    "packSkill": "implement",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/implement/agents/openai.yaml",
+    "installedSourceHash": "b6371a0a6723bad551f3adc721e3729a6a97acfc3670dc2bdea198bbe78408c0",
+    "originalFileSha256": "8970a8596ade0c28ab427f41a4ea242d6bdf6186c59ebf55e1238dbecaab79dc",
+    "packFileSha256": "964586bdee2e07a0b1a94eabe5b6db1506d7d85f2f69f51d8b219180ac4fd6f8"
+  },
+  {
+    "upstreamSkill": "implement-spec",
+    "packSkill": "implement-spec",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/implement-spec/SKILL.md",
+    "installedSourceHash": "0ccc13c6766b0e5f55229c8f1252d004090da70e6610b4c324cd245970fcb3f1",
+    "originalFileSha256": "1993a473cec40ac85d081c112cdffdc63ec3267c2e412055ad09e013a2f623d1",
+    "packFileSha256": "e6235c05d3d4b57ffe65f91217637456b81f41740ce7f28ffd5c9aeddf6f5f7e"
+  },
+  {
+    "upstreamSkill": "implement-spec",
+    "packSkill": "implement-spec",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/implement-spec/agents/openai.yaml",
+    "installedSourceHash": "0ccc13c6766b0e5f55229c8f1252d004090da70e6610b4c324cd245970fcb3f1",
+    "originalFileSha256": "fd41efb42c60c96320d6531be7e4bf15cbf5518cd652d57dff27ccffa46988e9",
+    "packFileSha256": "e01b5fd0215439705e28d851b0b293945b6b51217e5a813eaec795905c7126f0"
+  },
+  {
+    "upstreamSkill": "tdd",
+    "packSkill": "tdd",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md",
+    "installedSourceHash": "daf55026f456af104a72fa43247f7bcec89e5127316dc5b1b8d675d6a9d8ce94",
+    "originalFileSha256": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0",
+    "packFileSha256": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0"
+  },
+  {
+    "upstreamSkill": "tdd",
+    "packSkill": "tdd",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/agents/openai.yaml",
+    "installedSourceHash": "daf55026f456af104a72fa43247f7bcec89e5127316dc5b1b8d675d6a9d8ce94",
+    "originalFileSha256": "ea6f01cf1b8c06a4b0f5b649d74b1b8ce8685e72af1b38d70d877693e092af0b",
+    "packFileSha256": "69d2f93945858862e492b8589513b8b7039e2abdb94eef37ecaa03bb0c125778"
+  },
+  {
+    "upstreamSkill": "tdd",
+    "packSkill": "tdd",
+    "file": "mocking.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/mocking.md",
+    "installedSourceHash": "daf55026f456af104a72fa43247f7bcec89e5127316dc5b1b8d675d6a9d8ce94",
+    "originalFileSha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef",
+    "packFileSha256": "3ceb807fdf4a47d6a93d4d9a891e5ba6d362a6247bd08adc451feebfc17361ef"
+  },
+  {
+    "upstreamSkill": "tdd",
+    "packSkill": "tdd",
+    "file": "tests.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/tests.md",
+    "installedSourceHash": "daf55026f456af104a72fa43247f7bcec89e5127316dc5b1b8d675d6a9d8ce94",
+    "originalFileSha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a",
+    "packFileSha256": "859f9e592c188fda4fc7277dd180e4ce9c7a2e13f6efe1f6f29eccc9d28c106a"
+  },
+  {
+    "upstreamSkill": "code-review",
+    "packSkill": "code-review",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/code-review/SKILL.md",
+    "installedSourceHash": "c2745e2be960b82b9fddd82cf45265f42431e7b045c403f297b25f0f311e9210",
+    "originalFileSha256": "9c921a8d88138a41401d8897ca1bb852088ab1b7b605cdd04edc13e3e8aab6dd",
+    "packFileSha256": "4f1025bc6ca306329af29ff80cde7c59e4803978bdbaa992d36da3cdcccb87d2"
+  },
+  {
+    "upstreamSkill": "code-review",
+    "packSkill": "code-review",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/code-review/agents/openai.yaml",
+    "installedSourceHash": "c2745e2be960b82b9fddd82cf45265f42431e7b045c403f297b25f0f311e9210",
+    "originalFileSha256": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352",
+    "packFileSha256": "94f8379dfa5eebf9c4869ce37173888374df7a828ba2daed084fab646429ccb2"
+  },
+  {
+    "upstreamSkill": "codebase-design",
+    "packSkill": "codebase-design",
+    "file": "DEEPENING.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/DEEPENING.md",
+    "installedSourceHash": "aa11a96c08451f4ff86052d5da94004a8c97bb4ea41b2ac8a4300c189f66c89c",
+    "originalFileSha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1",
+    "packFileSha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1"
+  },
+  {
+    "upstreamSkill": "codebase-design",
+    "packSkill": "codebase-design",
+    "file": "DESIGN-IT-TWICE.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/DESIGN-IT-TWICE.md",
+    "installedSourceHash": "aa11a96c08451f4ff86052d5da94004a8c97bb4ea41b2ac8a4300c189f66c89c",
+    "originalFileSha256": "c222ab5a82e0405672eb9062d62496139a08828e45d07fc5f18e4952c10fac1a",
+    "packFileSha256": "c222ab5a82e0405672eb9062d62496139a08828e45d07fc5f18e4952c10fac1a"
+  },
+  {
+    "upstreamSkill": "codebase-design",
+    "packSkill": "codebase-design",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/SKILL.md",
+    "installedSourceHash": "aa11a96c08451f4ff86052d5da94004a8c97bb4ea41b2ac8a4300c189f66c89c",
+    "originalFileSha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2",
+    "packFileSha256": "2c20617f87ec8af6a434859f381b2f061a69b530444e74eb39e78bb016a6d1e2"
+  },
+  {
+    "upstreamSkill": "codebase-design",
+    "packSkill": "codebase-design",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/codebase-design/agents/openai.yaml",
+    "installedSourceHash": "aa11a96c08451f4ff86052d5da94004a8c97bb4ea41b2ac8a4300c189f66c89c",
+    "originalFileSha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f",
+    "packFileSha256": "0f76d86116578ec267879c1a524363861600993c6bac6b1079d6577624466d2c"
+  },
+  {
+    "upstreamSkill": "research",
+    "packSkill": "research",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/research/SKILL.md",
+    "installedSourceHash": "5d85b64ecceed6b3f6d5996dc8af07180be8d1ff11ef3d26eda2acff078fbd39",
+    "originalFileSha256": "1f629e18ab899412683bc6a1c4efb4339999e27c2fdac328f26ee10a8c031d33",
+    "packFileSha256": "1f629e18ab899412683bc6a1c4efb4339999e27c2fdac328f26ee10a8c031d33"
+  },
+  {
+    "upstreamSkill": "research",
+    "packSkill": "research",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/research/agents/openai.yaml",
+    "installedSourceHash": "5d85b64ecceed6b3f6d5996dc8af07180be8d1ff11ef3d26eda2acff078fbd39",
+    "originalFileSha256": "9b4c470d63221c1f68f22df70b83e2f12401b317babe0d1b7b5f24a974474d0d",
+    "packFileSha256": "95703af405b3cf35982426e7cd697743745284080db37d7cf49e4d075edeffde"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "SKILL.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "b01e05bfe8c323171275c6ceec78b12f1bd4c62dfd26c2cfe8be806d3883f1ed",
+    "packFileSha256": "eb598c74b6c953661dda80ffd9282e37a663690eaefa9a3f43d3128b867c25eb"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "agents/openai.yaml",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/agents/openai.yaml",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "9527de0110541c45712319025155aeab8dc7d77c6ed6e5e83271bab1851ab939",
+    "packFileSha256": "0ebe2d8234a75d465b2b5afebd2c7329eee7a3e040568aade993252117d336f4"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "domain.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/domain.md",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "593a7042218689f1d24df89df14eaf0a20e19e0d0a7d479a01947ac78f0784b9",
+    "packFileSha256": "593a7042218689f1d24df89df14eaf0a20e19e0d0a7d479a01947ac78f0784b9"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "issue-tracker-github.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/issue-tracker-github.md",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "6fdb3e9b00b7b0b115ecac3b1c00e3790f637f190abf598815368722c0a94692",
+    "packFileSha256": "6fdb3e9b00b7b0b115ecac3b1c00e3790f637f190abf598815368722c0a94692"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "issue-tracker-gitlab.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/issue-tracker-gitlab.md",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "947602d33a80f98f939fb990995b8f95a3459b114b919c4221d08bd75d7cffe0",
+    "packFileSha256": "947602d33a80f98f939fb990995b8f95a3459b114b919c4221d08bd75d7cffe0"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "issue-tracker-local.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/issue-tracker-local.md",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "7dcda20a2eb4bdc89b95d1143423c0691309921cadae3132e6424f371030506e",
+    "packFileSha256": "7dcda20a2eb4bdc89b95d1143423c0691309921cadae3132e6424f371030506e"
+  },
+  {
+    "upstreamSkill": "setup-matt-pocock-skills",
+    "packSkill": "setup-zacky-skills",
+    "file": "triage-labels.md",
+    "source": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/triage-labels.md",
+    "installedSourceHash": "50d6c45174f56a4323b24978f36fcc9169fae0b3abb026587bf636e468c4954c",
+    "originalFileSha256": "ae512af838c78b8750471c42cd2b20fa32319553e61d84c9a23d171b40ce14aa",
+    "packFileSha256": "f4dae8e98c4062a415184afeda3140cce462443f912cbe73b63a1e802b4fe0c9"
+  }
+]
